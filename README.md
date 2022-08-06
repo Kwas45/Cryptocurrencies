@@ -8,4 +8,5 @@ The analysis for this project include:
 * Visualizing Cryptocurrencies Results
 
 Resources
-[]()
+
+**[Crypto](https://github.com/Kwas45/Cryptocurrencies/blob/main/Resources/crypto_data.csv)**
